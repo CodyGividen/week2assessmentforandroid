@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week2Assessment</string>
+    <string name="name_resource_fragment">Welcome, %1$s</string>
+    <string name="email_resource_fragment">Please check that your email at %1$s to verify your account!</string>
+</resources>
